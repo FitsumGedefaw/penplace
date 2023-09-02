@@ -1,10 +1,24 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## penplace
+### A blogging application
+
+https://github.com/FitsumGedefaw/penplace/assets/91980891/155c658c-f83f-4cf3-a65a-0d473e5a1736
+
+## 📌Technologies used
+  ### 👉 Next.js
+  ### 👉 Typescript
+  ### 👉 Tailwindcss
+  ### 👉 json-server
+
 ## Getting Started
 
 First, run the development server:
 
-```bash
+
+https://github.com/FitsumGedefaw/penplace/assets/91980891/f0e2bf21-487f-41e1-be72-0b48721a4c5b
+
+
 npm run dev
 # or
 yarn dev
