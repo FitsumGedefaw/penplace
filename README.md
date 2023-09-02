@@ -6,7 +6,7 @@
 https://github.com/FitsumGedefaw/penplace/assets/91980891/9956ec53-a376-4bc5-869a-29a5a81d1cca
 
 
-
+ 
 ## 📌Technologies used
   ### 👉 Next.js
   ### 👉 Typescript
