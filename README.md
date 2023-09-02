@@ -3,7 +3,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## penplace
 ### A blogging application
 
-https://github.com/FitsumGedefaw/penplace/assets/91980891/155c658c-f83f-4cf3-a65a-0d473e5a1736
+
+https://github.com/FitsumGedefaw/penplace/assets/91980891/9956ec53-a376-4bc5-869a-29a5a81d1cca
+
+
 
 ## 📌Technologies used
   ### 👉 Next.js
@@ -14,10 +17,6 @@ https://github.com/FitsumGedefaw/penplace/assets/91980891/155c658c-f83f-4cf3-a65
 ## Getting Started
 
 First, run the development server:
-
-
-https://github.com/FitsumGedefaw/penplace/assets/91980891/f0e2bf21-487f-41e1-be72-0b48721a4c5b
-
 
 npm run dev
 # or
